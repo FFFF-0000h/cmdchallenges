@@ -1,11 +1,3 @@
-# Challenge 01 – Hello World
-
-**Task:** Print "hello world" on the terminal in a single command.
-
-**Solution:**
-```bash
-echo "hello world"
-```
 **Other solutions**:
 ```bash
 echo "hello world"
